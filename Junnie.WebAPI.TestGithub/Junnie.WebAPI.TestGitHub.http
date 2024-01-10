@@ -1,0 +1,6 @@
+@Junnie.WebAPI.TestGitHub_HostAddress = http://localhost:5205
+
+GET {{Junnie.WebAPI.TestGitHub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Junnie.WebAPI.TestGitHub.props" />
+</Project>
